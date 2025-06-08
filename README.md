@@ -16,7 +16,7 @@ Me chamo Santiago Gomes Buavas, tenho 19 anos e sou natural do Rio Grande do Sul
         <img 
             alt="Meu github" 
             title="Me siga no github" 
-            src="https://custom-icon-badges.demolab.com/github/followers/sbuavas?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/sbuavas?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=SEGUIDORES&logoColor=white"
         />
 </p>
 
